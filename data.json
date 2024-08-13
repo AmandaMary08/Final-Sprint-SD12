@@ -1,0 +1,55 @@
+[
+  {
+    "playerName": "Christine Sinclair",
+    "playerNumber": "12",
+    "fieldPosition": "forward",
+    "playerHometown": "Burnaby BC",
+    "playerPro": "yes",
+    "proTeam": "Portland Thorns"
+  },
+
+  {
+    "playerName": "Stephanie Labbe",
+    "playerNumber": "1",
+    "fieldPosition": "goalkeeper",
+    "playerHometown": "Edmonton AB",
+    "playerPro": "yes",
+    "proTeam": "Paris Saint-Germain"
+  },
+
+  {
+    "playerName": "Desiree Scott",
+    "playerNumber": "11",
+    "fieldPosition": "midfield",
+    "playerHometown": "Winnipeg MB",
+    "playerPro": "yes",
+    "proTeam": "Kansas City Current"
+  },
+
+  {
+    "playerName": "Jordyn Huitema",
+    "playerNumber": "9",
+    "fieldPosition": "forward",
+    "playerHometown": "Chilliwack BC",
+    "playerPro": "yes",
+    "proTeam": "Seattle Reign FC"
+  },
+
+  {
+    "playerName": "Kadeisha Buchanan",
+    "playerNumber": "26",
+    "fieldPosition": "defence-center",
+    "playerHometown": "Burnaby BC",
+    "playerPro": "yes",
+    "proTeam": "Chelsea FC"
+  },
+
+  {
+    "playerName": "Adriana Leon",
+    "playerNumber": "23",
+    "fieldPosition": "forward-wing",
+    "playerHometown": "Mississauga ON",
+    "playerPro": "yes",
+    "proTeam": "Aston Villa FC"
+  }
+]

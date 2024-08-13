@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canada's Womens National Soccer Team (CANWNT)</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>List of CANWNT Players</h1>
+      <button id="downloadButton">Download JSON</button>
+      <p>
+        This is a list of Canadian women's national team players. It is not the
+        current roster, but players that have contributed most to the team's
+        success as of 2022 (some players have since retired).
+      </p>
+      <h2>Players Roster</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Number</th>
+            <th>Position</th>
+            <th>Hometown</th>
+            <th>Pro Status</th>
+            <th>Pro Team Name</th>
+          </tr>
+        </thead>
+        <tbody id="playersTable">
+          <!-- JSON data will populate into this table -->
+        </tbody>
+      </table>
+    </div>
+
+    <footer>&copy; 2024 CANWNT</footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
